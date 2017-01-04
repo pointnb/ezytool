@@ -1,7 +1,7 @@
 # ezytool
 
-#
+data processing % analyze
 
 
-소개자료
+introduction ppt
 https://www.slideshare.net/secret/v91hLYm521xOvv
