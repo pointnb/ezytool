@@ -1,0 +1,1 @@
+curl -XPUT localhost:9200/baseball -d '{"mappings": {"naver": {"_index": {"enabled": true},"properties": {"date": {"type": "date", "format": "yyyy-MM"}}}, "daily": {"_index": {"enabled": true}, "properties": {"date": {"type": "date", "format": "yyyy-MM"}}}}}'
